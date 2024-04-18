@@ -39,3 +39,35 @@ body{
     color: white;
     font: bold;
 }
+.tuetue{
+    font-size: larger;
+    font: bold;
+    color: white;
+    text-align: right;
+    justify-content: right;
+  
+}
+.header { 
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+
+.section-title { 
+    font-size: 20px; 
+    text-decoration: underline; 
+ }
+ .contact { 
+    text-align: center; 
+    margin-top: 5px; 
+}
+.section { 
+    margin-bottom: 20px; 
+}
+.job-title { 
+    font-weight: bold;
+ }
+ .email-link { 
+    text-decoration: none; 
+    color: blue;
+    text-shadow: none;
+    }

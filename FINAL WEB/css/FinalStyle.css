@@ -8,6 +8,7 @@ body{
      2px  2px 0 #000,
      -2px 2px 0 black,
      2px -2px 0 black;
+     border: #000 5px;
     
 }
 .drivers-container {
@@ -44,8 +45,11 @@ body{
 .tuetue{
     font-size: larger;
     font: bold;
-    color: white;
+    color: red;
     text-align: right;
     justify-content: right;
   
 }
+
+    
+
